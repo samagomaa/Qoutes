@@ -1,9 +1,15 @@
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
-    .container{
-        width: 80% !important;
+    .subContainer{
+        width: 100% !important;
     }
     .firstHead{
         font-size: 10px;
+    }
+    .subContainer{
+        width: 100% !important;
+    }
+    .qouteContainer h2{
+        font-size: 20px !important;
     }
 }
